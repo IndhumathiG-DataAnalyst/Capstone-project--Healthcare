@@ -30,4 +30,4 @@ This project focuses on analyzing healthcare data related to patient treatments,
 
 ---
 
-🙏 Thank you for visiting my project repository!
+🙏 Thank you for visiting my project repository.
